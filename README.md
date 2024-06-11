@@ -1,4 +1,4 @@
-Flappy Bird Game
+<h1>Flappy Bird Game</h1>
 Welcome to the Flappy Bird game! This project is a web-based version of the popular Flappy Bird game, where you control a bird trying to fly through obstacles without hitting them.
 
 Table of Contents
