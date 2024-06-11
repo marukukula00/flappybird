@@ -1,15 +1,17 @@
-Flappy Bird Game
+<h1>Flappy Bird Game</h1>h1>
 Welcome to the Flappy Bird game! This project is a web-based version of the popular Flappy Bird game, where you control a bird trying to fly through obstacles without hitting them.
 
-Table of Contents
-Features
-Getting Started
-Installation
-Usage
-Game Controls
-Contributing
-License
-Acknowledgements
+<h2>Table of Contents</h2>h2
+<li>
+<ul>Features</ul>
+<ul>Getting Started</ul>
+<ul>Installation</ul>
+<ul>Usage</ul>
+<ul>Game Controls</ul>
+<ul>Contributing</ul>
+<ul>License</ul>
+<ul>Acknowledgements</ul>
+</li>
 Features
 Responsive Design: The game adjusts to any screen size.
 High-Resolution Graphics: Beautiful graphics for an engaging user experience.
